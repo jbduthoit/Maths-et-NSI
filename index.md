@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Bienvenue sur mon site Maths et NSI
 
 You can use the [editor on GitHub](https://github.com/jbduthoit/mathsnsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
