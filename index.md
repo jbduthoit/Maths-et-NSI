@@ -1,3 +1,5 @@
+<script id="MathJax-script" async src="<url-to-your-site>/mathjax/tex-chtml.js"></script>
+
 # Bienvenue sur mon site Maths et NSI
 
 You can use the $$2^n$$ [editor on GitHub](https://github.com/jbduthoit/mathsnsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
