@@ -1,4 +1,4 @@
-# mathsnsi
+# Maths et NSI
 
 
 message !
